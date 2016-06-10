@@ -90,7 +90,15 @@
             <p class="colorText">{{type}}<p>
             <p class="colorText">{{town}}{{#state}}, {{state}}{{/state}}{{#postcode}}, {{postcode}}{{/postcode}}</p>
             <ul>
-                <li><span class="category">Biking:</span> {{state}}</li>
+                <li><span class="category">Biking:</span>
+                    <script>
+                        if (0 == 0) {
+                          document.write("hi");
+                        }
+                        else {
+                          document.write("bye");
+                        }
+                    </script></li>
                 <li><span class="category">Outlets:</span> {{wpath}}</li>
                 <li><span class="category">Couch:</span> {{bpath}}</li>
                 <li><span class="category">Large Table:</span> {{restroom}}</li>
