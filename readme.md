@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/401ode/SCORP-spots.png?label=ready&title=Ready)](https://waffle.io/401ode/SCORP-spots)
 # RI Outdoor Recreation Areas
 
 This is an experimental version of the [GoRI's](https://github.com/401ode/GetOutdoorsRI) "Explore" page displaying SCORP (State Comprehensive Outdoor Recration Plan) data. 
